@@ -8,7 +8,7 @@
 ![](images/fastqc_per_sequence_gc_content_plot.jpeg)
 ![](images/fastqc-status-check-heatmap.png)
 ### Genome mapping results
-Sample ID | type | total reads | mapped reads | unique mapped reads | matchings |
+Sample ID | type | total reads | total mapped reads | unique mapped reads | reads mapped on genes |
  --- |--- |--- |--- |--- | ---
 SRR3414635 | control	| 20 956 475	| 20 395 865 (97.3%) |	18 428 317 (87.9%) |	16 275 997 (77.7%)
 SRR3414636 | control |	20 307 147 |	19 757 059 (97.3%) |	17 825 380 (87.8%) |	15 757 580 (77.6%)
