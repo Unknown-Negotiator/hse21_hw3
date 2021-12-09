@@ -6,4 +6,4 @@
 ## Part 2
 ### [Data analysis (Google Colab link](https://colab.research.google.com/drive/1QBZR9WWVBPjnA-QbLUwogyv0QVEWE3xM?usp=sharing)
 ### MultiQC report
-![](multiqc_report.html)
+![](images/mQC_general_statistics.png)
