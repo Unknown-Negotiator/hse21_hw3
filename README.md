@@ -22,5 +22,8 @@ SRR3414631 |	reprogramming |	24 244 069 |	23 547 686 (97.1%) |	20 928 945 (86.3%
 ## Part 2: data analysis
 ### [Google Colab link](https://colab.research.google.com/drive/1QBZR9WWVBPjnA-QbLUwogyv0QVEWE3xM?usp=sharing)
 
-###MA-plot
+### MA-plot
 ![](images/ma-plot.png)
+
+### Heat map
+![](images/heat_map.png)
