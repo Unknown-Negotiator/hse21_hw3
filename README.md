@@ -28,9 +28,12 @@ SRR3414631 |	reprogramming |	24 244 069 |	23 547 686 (97.1%) |	20 928 945 (86.3%
 ### Heat map
 ![](images/heat_map.png)
 
-### Top-3 genes with most significant change in expression
+### Top-3 genes with most significant changes in expression
 gene ID | log2FoldChange | padj
 -|-|-
 ENSMUSG00000058354.7 | 12.7296 | 1.59576e-25
 ENSMUSG00000040728.15 | 12.1594 | 3.41334e-23
 ENSMUSG00000039269.5 | 12.0763 | 5.40062e-23
+
+-|-|-
+![](images/ENSMUSG00000058354.7.png ) | ![](images/ENSMUSG00000040728.15.png) | ![](images/ENSMUSG00000039269.5.png)
